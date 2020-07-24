@@ -1,0 +1,19 @@
+body {background-color: rgb(204, 255, 255);}
+
+
+#t1 {
+color: rgb(7, 80, 148);
+}
+   
+#t2  {
+    background-position: center;
+color: rgba(0, 139, 139, 0.897);
+padding-left: 300px
+
+}
+
+#caixa { ;
+    background-color: rgb(255, 255, 255);
+    padding-left: 650px ;
+    border: 5px rgb(255, 255, 255) solid;
+}
